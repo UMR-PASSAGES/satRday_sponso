@@ -182,19 +182,19 @@ class: slide
 
 ## Speakers Confirmés 
 
-+ __Victor Perrier__, Data Scientist chez __DreamR__, France.
++ __Victor Perrier__, Data Scientist chez __DreamR__, FRANCE.
 
 + __Françoise Bahoken__, Géographe et cartographe, Chargée de recherches, __IFFSTAR__, FRANCE.
 
 + __Nicolas Lambert__, Ingénieur de recherche en sciences de l'information, __CNRS__, FRANCE.
 
-+ __Fanny Meyer__, Data Scientist chez __DreamR__, France.
++ __Fanny Meyer__, Data Scientist chez __DreamR__, FRANCE.
 
-+ __Colin Fay__, Data Scientist chez __ThinkR__, France.
++ __Colin Fay__, Data Scientist chez __ThinkR__, FRANCE.
 
-+ __Marion Louveaux__, chercheuse en agronomie à __Université d’Heidelberg__, ALLEMAGNE.
++ __Marion Louveaux__, Chercheuse en agronomie à __Université d’Heidelberg__, ALLEMAGNE.
 
-+ __Maël Theulière__, Chef de la division Observation, études et Statistiques à la __DREAL pays de la Loire__, France
++ __Maël Theulière__, Chef de la division Observation, études et Statistiques à la __DREAL pays de la Loire__, FRANCE
 
 
 
@@ -243,11 +243,11 @@ class: slide
 
 + __Grégoire Le Campion__, Ingénieur d'études statisticien au sein de l'UMR Passages, Bordeaux, CNRS. 
 
-+ __Marylène Henri__, Statisticienne à la Caisse des dépôts et consignations, Bordeaux. 
++ __Marylène Henry__, Statisticienne à la Caisse des dépôts et consignations, Bordeaux. 
 
-+ __David Carrayon__, Satisticien à l'INRAE, Bordeaux. 
++ __David Carayon__, Ingénieur d'études statisticien à l'INRAE, Bordeaux. 
 
-+ __Sandrine Lyser__, Satisticienne à l'INRAE, Bordeaux. 
++ __Sandrine Lyser__, Ingénieure d'études statisticienne à l'INRAE, Bordeaux. 
 
 + __Colin Fay__, Data Scientist & R Hacker @ ThinkR, membre actif de la communauté R francophone. 
 
@@ -272,7 +272,7 @@ SatRday Bordeaux 2020 est aussi porté par "gRrr", __collectif pour le développ
 
 + des __ONG__ : rOpenSci...
 
-+ des __chercheurs__ : CNRS, IRSN, LPNC...
++ des __chercheurs__ : CNRS, IRSN, LPNC, INRAE...
 
 De __toute la France__ : Paris, Rennes, Toulouse, Marseille, Bordeaux, Grenoble... 
 
@@ -389,7 +389,7 @@ class: contact
 
 # Contact 
 
-## Grégoire Le Campion / Marylène Henri
+## Grégoire Le Campion / Marylène Henry
 
 ### satrdaybdx@gmail.com / gregoire.lecampion@cnrs.fr
 
